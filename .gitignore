@@ -1,0 +1,23 @@
+# Environment and configuration files
+.env
+config.json
+
+# Log files
+*.log
+
+# SQLite database
+*.db
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary or system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
