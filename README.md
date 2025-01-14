@@ -137,7 +137,7 @@ To run this project, you need:
 
 1. Run the script to create and populate the database:
    ```bash
-   python main.py
+   python capture_YT_comments.py
    ```
 
 2. Use SQL to query the database:
